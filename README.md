@@ -21,6 +21,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `npm run build`
 
+![image](https://github.com/siyagampawar/To-Do-App/assets/115725393/6d782ef4-8e89-48c8-bb1d-c0e51afcc8e2)
 
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
